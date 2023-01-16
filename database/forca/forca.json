@@ -1,0 +1,182 @@
+[
+  {
+    "id": "559185841876@s.whatsapp.net",
+    "word_original": "venus",
+    "word": "venus",
+    "under_word": "-----",
+    "array_word": [
+      "v",
+      "e",
+      "n",
+      "u",
+      "s"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 5,
+    "attempts": 6
+  },
+  {
+    "id": "553175416530@s.whatsapp.net",
+    "word_original": "divorciado",
+    "word": "divorci0do",
+    "under_word": "----------",
+    "array_word": [
+      "d",
+      "i",
+      "v",
+      "o",
+      "r",
+      "c",
+      "i",
+      0,
+      "d",
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "a",
+      "-",
+      "-"
+    ],
+    "tam": 10,
+    "attempts": 4
+  },
+  {
+    "id": "5524992755713@s.whatsapp.net",
+    "word_original": "limao",
+    "word": "lim0o",
+    "under_word": "-----",
+    "array_word": [
+      "l",
+      "i",
+      "m",
+      0,
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "a",
+      "-"
+    ],
+    "tam": 5,
+    "attempts": 3
+  },
+  {
+    "id": "558183036986@s.whatsapp.net",
+    "word_original": "prescricao",
+    "word": "prescric0o",
+    "under_word": "----------",
+    "array_word": [
+      "p",
+      "r",
+      "e",
+      "s",
+      "c",
+      "r",
+      "i",
+      "c",
+      0,
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "a",
+      "-"
+    ],
+    "tam": 10,
+    "attempts": 5
+  },
+  {
+    "id": "557197228880@s.whatsapp.net",
+    "word_original": "gemido",
+    "word": "gemido",
+    "under_word": "------",
+    "array_word": [
+      "g",
+      "e",
+      "m",
+      "i",
+      "d",
+      "o"
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "-",
+      "-"
+    ],
+    "tam": 6,
+    "attempts": 5
+  },
+  {
+    "id": "559784202500@s.whatsapp.net",
+    "word_original": "geleira",
+    "word": "g0l0ir0",
+    "under_word": "-------",
+    "array_word": [
+      "g",
+      0,
+      "l",
+      0,
+      "i",
+      "r",
+      0
+    ],
+    "array_under_word": [
+      "-",
+      "e",
+      "-",
+      "e",
+      "-",
+      "-",
+      "a"
+    ],
+    "tam": 7,
+    "attempts": 6
+  },
+  {
+    "id": "556291565699@s.whatsapp.net",
+    "word_original": "zumbi",
+    "word": "zumb0",
+    "under_word": "-----",
+    "array_word": [
+      "z",
+      "u",
+      "m",
+      "b",
+      0
+    ],
+    "array_under_word": [
+      "-",
+      "-",
+      "-",
+      "-",
+      "i"
+    ],
+    "tam": 5,
+    "attempts": 2
+  }
+]
